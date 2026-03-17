@@ -158,13 +158,14 @@ Two tasks were evaluated:
 ## 📸 Screenshots
 
 <details>
-<summary><b>Click to view examples & findings</b></summary>
+<summary><b>Click to view examples</b></summary>
 
-### Realism Factor Examples
-Sample images demonstrating key realism attributes — high-realism photograph (ρ=0.73), mysterious/CG image (ρ=0.34), and object familiarity driving perception (ρ=0.77).
+<br>
 
-### Model Comparison
-Preliminary results from EF-SVM, EF-MLP, and VR-CNN on the Visual Realism Dataset, showing promising classification capability despite resource constraints.
+### Real vs. Computer-Generated Image Samples
+Example images from the dataset showing real photographs alongside computer-generated images used in the psychophysics experiments and model training.
+
+![Real vs CG Samples](./screenshots/real_vs_cg_samples.png)
 
 </details>
 
