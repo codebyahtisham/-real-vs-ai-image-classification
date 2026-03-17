@@ -175,12 +175,10 @@ Example images from the dataset showing real photographs alongside computer-gene
 
 | Name | Roll Number |
 |------|-------------|
-
 | Ahtisham Saleem | NIM-BSEE-2021-19 |
 | Saad Zahid | NIM-BSEE-2021-26 |
 | Jaleed Ahmed | NIM-BSEE-2021-02 |
 | Anousha Malik | NIM-BSEE-2021-29 |
-
 ---
 
 ## 🏫 Academic Info
