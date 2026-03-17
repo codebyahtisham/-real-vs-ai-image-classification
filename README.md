@@ -165,7 +165,7 @@ Two tasks were evaluated:
 ### Real vs. Computer-Generated Image Samples
 Example images from the dataset showing real photographs alongside computer-generated images used in the psychophysics experiments and model training.
 
-![Real vs CG Samples](./screenshots/real_vs_cg_samples.png)
+![Real vs CG Samples](./Real%20vs%20CG%20Samples/real_vs_cg_samples.png)
 
 </details>
 
@@ -175,13 +175,11 @@ Example images from the dataset showing real photographs alongside computer-gene
 
 | Name | Roll Number |
 |------|-------------|
+
 | Ahtisham Saleem | NIM-BSEE-2021-19 |
+| Saad Zahid | NIM-BSEE-2021-26 |
 | Jaleed Ahmed | NIM-BSEE-2021-02 |
 | Anousha Malik | NIM-BSEE-2021-29 |
-| Saad Zahid | NIM-BSEE-2021-26 |
-
-
-
 ---
 
 ## 🏫 Academic Info
